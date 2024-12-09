@@ -1,5 +1,6 @@
 # Medical-RAG-showcase
 Showcase example code for the paper "A Review of Large Language Models in Medical Education, Clinical Decision Support, and Healthcare Administration".
+https://www.preprints.org/manuscript/202412.0185/v1
 
 # Prerequisites
 Required Libraries:
